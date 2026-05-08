@@ -1,0 +1,5 @@
+DocumentsUI Shortcut is a tiny launcher for Android's built-in Files / DocumentsUI app.
+
+It does not request storage permission, does not read files, does not use the network, and does not run a background service. Tapping the launcher icon opens the system file manager in browser mode when supported by the device.
+
+Access to Android/data and Android/obb is controlled by Android and the device vendor's DocumentsUI implementation.

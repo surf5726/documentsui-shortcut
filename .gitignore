@@ -1,0 +1,16 @@
+.gradle/
+/build/
+/app/build/
+/dist/
+/local.properties
+.idea/
+.vscode/
+*.iml
+*.apk
+*.idsig
+keystore/*.jks
+keystore/
+*.keystore
+*.jks
+*.pem
+*.key

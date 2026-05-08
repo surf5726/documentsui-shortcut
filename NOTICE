@@ -1,0 +1,17 @@
+DocumentsUI Shortcut
+
+This project includes icon resources derived from Android Open Source Project
+DocumentsUI resources:
+
+- platform/packages/apps/DocumentsUI
+- tag: android-16.0.0_r4
+- files:
+  - res/mipmap-anydpi/ic_app_icon.xml
+  - res/mipmap-*/ic_launcher_icon_foreground.png
+  - res/values/colors.xml app_icon_background
+
+Original resources are Copyright (C) The Android Open Source Project and are
+licensed under the Apache License, Version 2.0.
+
+Source:
+https://android.googlesource.com/platform/packages/apps/DocumentsUI/+/refs/tags/android-16.0.0_r4/
