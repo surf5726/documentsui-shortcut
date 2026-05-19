@@ -1,0 +1,1 @@
+Add F-Droid metadata icon and phone screenshot.
