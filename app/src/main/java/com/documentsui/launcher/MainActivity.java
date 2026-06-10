@@ -1,4 +1,5 @@
-package com.documentsui.shortcut;
+// Huawei EMUI/HarmonyOS requires that Activity names do not contain 'shortcut' to ensure proper icon cropping
+package com.documentsui.launcher;
 
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
@@ -7,6 +8,8 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.provider.DocumentsContract;
 import android.widget.Toast;
+
+import com.documentsui.shortcut.R;
 
 public final class MainActivity extends Activity {
     private static final String ACTION_BROWSE = "android.provider.action.BROWSE";

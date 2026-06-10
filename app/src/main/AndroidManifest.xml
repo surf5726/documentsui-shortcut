@@ -24,7 +24,7 @@
         android:theme="@style/Theme.FilesShortcut">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.documentsui.launcher.MainActivity"
             android:excludeFromRecents="true"
             android:exported="true"
             android:theme="@style/Theme.FilesShortcut">
