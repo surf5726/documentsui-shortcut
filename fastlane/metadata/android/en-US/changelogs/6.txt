@@ -1,0 +1,1 @@
+Fix launcher icon rendering on Huawei EMUI/HarmonyOS devices.

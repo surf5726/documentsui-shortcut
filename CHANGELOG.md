@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+- Fix launcher icon rendering on Huawei EMUI/HarmonyOS devices.
+
 ## 1.0.4
 
 - Add rounded legacy launcher icons for Huawei EMUI/HarmonyOS launchers that do not crop adaptive icons correctly.
