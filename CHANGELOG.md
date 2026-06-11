@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.8
+
+- Reduce the Android themed icon artwork to match other launcher icons.
+- Require Android 8.0 or later and remove obsolete legacy launcher icons.
+
 ## 1.0.7
 
 - Fix the Android themed icon by removing the overlapping shortcut badge.

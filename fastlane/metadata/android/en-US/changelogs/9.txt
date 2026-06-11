@@ -1,0 +1,2 @@
+Reduce the Android themed icon artwork to match other launcher icons.
+Require Android 8.0 or later and remove obsolete legacy launcher icons.
