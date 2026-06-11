@@ -1,0 +1,1 @@
+Restore correctly sized legacy launcher icons for Android 7.1 and earlier.

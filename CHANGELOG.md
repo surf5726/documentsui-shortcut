@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6
+
+- Restore correctly sized legacy launcher icons for Android 7.1 and earlier.
+
 ## 1.0.5
 
 - Fix launcher icon rendering on Huawei EMUI/HarmonyOS devices.
