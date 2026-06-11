@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7
+
+- Fix the Android themed icon by removing the overlapping shortcut badge.
+
 ## 1.0.6
 
 - Restore correctly sized legacy launcher icons for Android 7.1 and earlier.
