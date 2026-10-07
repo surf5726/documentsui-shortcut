@@ -24,6 +24,9 @@ Android 11 and later restrict ordinary apps from accessing `Android/data` and `A
 ```powershell
 .\gradlew.bat assembleRelease
 ```
+```bash
+.\gradlew assembleRelease
+```
 
 The unsigned release APK is generated at:
 
@@ -35,6 +38,9 @@ Debug build:
 
 ```powershell
 .\gradlew.bat assembleDebug
+```
+```bash
+.\gradlew assembleDebug
 ```
 
 ## Release
